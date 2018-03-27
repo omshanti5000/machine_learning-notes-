@@ -73,7 +73,7 @@ python programming.net
 
 For fronthend: use html,jquery
 
-# 20th march
+# 27th march
 
 **learning markdown language**
 
@@ -99,7 +99,7 @@ some time it is useful to have different levels start line with `#`
 
 >  - captain America
 
-** if you have to write the code **
+**if you have to write the code**
 
     if (isAwesome){
 	return true
@@ -132,9 +132,41 @@ But I have to admit, tasks lists are my favorite:
 
 And, of course emoji@! :sparkles: :camel: :boom:
 
+*this text will be italic*
 
+_this text willbe italic_
 
+_you **can** combine them_
 
+# unordered list
 
+* item 1
 
+* item 2
+  * item 2a
+  * item 2b
+
+you can write code your code by four spaces
+    function fancy(arg){
+        if(arg){
+
+         }
+    }
+
+def foo():
+    if not bar:
+        return true
+
+# Tables
+
+first header | second header
+-----------  | -------------
+content from cell1 | content from cell 2
+content in the first column | content in second column
+
+~~this~~
+
+emoji :smile: :laughing: :flushed: :wink: :kissing:
+
+@ lakshay
 
