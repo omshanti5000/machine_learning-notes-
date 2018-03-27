@@ -72,3 +72,16 @@ projects of machine learning by new  boston
 python programming.net
 
 For fronthend: use html,jquery
+
+# 20th march
+
+**learning markdown language**
+[link to google](http://google.com)
+sometime you want bullet points:
+*start a line with star
+
+Alternatively,
+- dashes work just as well, for adding subpoints
+put two spaces
+  - like this
+  - and this
