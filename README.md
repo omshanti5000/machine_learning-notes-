@@ -13,7 +13,7 @@ we will explore more
 om shanti
 
 
-#3rd march
+# 3rd march
 
 
 time table:
@@ -23,7 +23,7 @@ then we will think what to do
 next
 
 
-#8th march
+# 8th march
 
 
 hello git
@@ -59,7 +59,7 @@ take it from keshav asopa
 vimal daga http://52.203.32.198/
 has given id where machine learnig model
 
-#19th march
+# 19th march
 
 
 1. pydelhi,pyjaipur,pyconindia
