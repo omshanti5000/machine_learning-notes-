@@ -147,15 +147,17 @@ _you **can** combine them_
   * item 2b
 
 you can write code your code by four spaces
+
     function fancy(arg){
         if(arg){
-
-         }
+ 
+        }
     }
 
-def foo():
-    if not bar:
-        return true
+
+    def foo():
+        if not bar:
+            return true
 
 # Tables
 
