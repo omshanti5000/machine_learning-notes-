@@ -1,5 +1,7 @@
-***machine_learning-notes-
-##2nd march:
+**machine_learning-notes-**
+# **2nd** march
+
+
 sckitlearn video 30 completed today
 datacamp course on machine learning start today,2 topics 
 covered:
@@ -11,7 +13,9 @@ we will explore more
 om shanti
 
 
-##3rd march:
+#3rd march
+
+
 time table:
 datacamp course is to be completed now from python to
 machine learning
@@ -19,7 +23,9 @@ then we will think what to do
 next
 
 
-##8th march:
+#8th march
+
+
 hello git
 and om shanti omshanti 
 today i have started course on statistical learning, refered by dataschool and shubham kalani(mail has 
@@ -53,7 +59,9 @@ take it from keshav asopa
 vimal daga http://52.203.32.198/
 has given id where machine learnig model
 
-##19th march:
+#19th march
+
+
 1. pydelhi,pyjaipur,pyconindia
 2. work on keras, tensor flow,
 
