@@ -172,3 +172,25 @@ emoji :smile: :laughing: :flushed: :wink: :kissing:
 
 @ lakshay
 
+# 30 march
+
+one video on edureka about ai vs deeplearning vs machine learning
+
+link is [link to google](https://www.youtube.com/watch?v=WSbgixdC9g8)
+
+# 31st march
+
+**plan of tommorrow**
+
+i will wake up early at morning, and continue that project of machine learning
+
+- [] project on machine learning which is titanic shipmember we have to predict which person survive or not
+
+# first of all that has to be completed
+
+## than sentiment analysis project where you have to learn tweepy and twitter api system  continue course on machine learning by andrewng or intro to machine learning
+
+
+
+
+
