@@ -190,6 +190,212 @@ i will wake up early at morning, and continue that project of machine learning
 
 ## than sentiment analysis project where you have to learn tweepy and twitter api system  continue course on machine learning by andrewng or intro to machine learning
 
+31st march
+
+gurman 
+@gurmanbh
+
+a three part process
+collecting information
+making sense of it (analyse)
+communacting the information
+
+
+iupc code
+ use twitter api to pull followers of certain users and find out when each follower joind the platform
+ visualie and find the relation
+ pudding.polls
+
+ 1.projects.ajazeera.com
+
+ experience 
+ uiux
+ bitly/pythonmeetup
+ data as beautiful(it is subradet)
+ source(blog)
+ opennews in mozilla
+ scensor american 
+ twitter.census.com
+ story is realted to code 
+
+
+ sidhant aggarwal (connecting iot with ai)
+
+caffe by facebook
+classification in supervised
+twitter sentiment analysis,
+spam:
+domain
+keywords
+keys
+
+Regression part(numerical value prediction):
+price of house:
+property attributes 
+on basis of location
+address
+type
+age parking
+school 
+and so on
+
+
+clustering(group entities with similar features)
+Games
+
+
+Recommendation(unsupervised):
+Netflix(started in hackathon)
+
+Application of machine learning:
+
+training data set and validation and test dataset:
+validation(works fine or not) and testing
+
+d3not.js(for front hand purpose)
+ 
+deep learning :
+speech recognization
+
+voice recognization ( or speech recognization )
+easy way to detect it 
+
+speech to text
+speaker recognization( by microsoft azure)
+
+mnist database(for hand written recognization)
+neural networking in deeplearning  github
+
+iot (things connected to internet):
+Mraa
+
+
+
+sensor library:
+http://mrra.io
+http://upm.mraa.io
+
+
+Aws overview 
+open cv(capture image smiling or not and then it sent to aws)
+aws 
+gcp:
+information is through cloud vision api
+
+workon.cv
+
+ image detection reveals the story of person
+
+linuxdelhi.org
+
+
+lightning talks:
+ipv 
+telegram group on debian:
+ftp master debian new
+debian sit(os)
+debian buster(os)
+
+
+sidhagarwal04
+
+
+https://github.com/hellozee/cook/blob/master/example/Recipe
+
+swagger(document your code) 
+
+login , good documentation, variables name should be good.
+
+gsardana001@gmail.com
+7206755167
+
+raghav Wahi
+email raghav.wahi@elixirct.com
+
+a. mobile app xamirini
+b. nodejs, mongo db, django
+c. python
+d. devops
+e corelinux, embedded linu
+
+
+
+2. company tubmanburg
+name: mandeeep
+email: mandeep@tubmanburg.com
+
+
+3. company:
+name:Naveen
+email:naveen.chandarkar
+looking for trainers and mentors
+
+# some of the problem of smart india hackathon
+
+1.Gas(solar gas) ,
+
+2.petroleum problem
+
+3.education problem ( by solving problem of job)
+
+# Help for middle class family:
+4.Aptitute certificate( online aptitude test for ):
+for parents to find the future of children
+
+5.Atmospheric
+
+6.transport, mobility, (rail, road,water waste, petrol  collective)
+
+7. Railway signal( to increase the speed and most modern vavastha)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
