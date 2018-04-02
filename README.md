@@ -348,12 +348,80 @@ for parents to find the future of children
 
 7. Railway signal( to increase the speed and most modern vavastha)
 
+2nd April
+workshop on ai and machine learning
+
+Rajat (experience of 25 years in it sector):
+cloud computing:
+The practice of using a network of remote servers hosted on internet to store, manage, and process data .
+
+cloud examples in reallife:
+icloud , dropbox , google drive and many more
+
+why use cloud computingL
+Classification of cloud-deployment and access
+private cloud
+public cloud(Goggle App Engine)
+hybrid cloud( takes advantage of scalability and cost-effeciveness of a public cloud)
+
+classification of cloud-Delivery models:
+
+user Level ("software as a service")
+
+Developer Level("platform as a service")
+
+IT level( "infrastructure as as service")
+
+service Delivery models
+
+using cloud as a service
+
+what the number say ( growth in cloud industry graph)
+
+it budgets of cloud investment
+
+business of cloud computing( 74% marketing)
+
+# Artifical Intelligence
+
+ iot(Network of connected device)
+ **examples** : street light will glow on the basis of movement,smartcity concept, to search citizen digitally
+
+ in 60second millions of data is genrating ( we make to use of that)
+
+World map of sociall network( Fcebook, ozone)
+
+50 billion will be connected to internet in 2020
+
+technology that used deep natural language processing 
+
+examples : chat bot machine, cortona, google assistant, siri
+
+machine learning( learn from data or past experience and predict output)
+
+environment  with a high deegree of complexity are where machine learning is most useful
+
+what is neural network:
+
+computing system inspired by the bioloical neural networks that constitute animal brains 
+
+input layer - hidden layer - output layer
+
+Neural network are a means of doing machine learning.
+
+speech recognization on smartphone, google's latest automatic translator are on basis of neural network
+
+siri,cortona,alexa, facebook
+
+google tensor flow canbe used for ai purpose
+
+Dnn research(use of deep learning)(Google)
 
 
-
-
-
-
+# the area where it is used mostly
+high tech / telecom
+automotive assembly 
+financial services
 
 
 
